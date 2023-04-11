@@ -1,0 +1,7 @@
+Compile with:
+
+g++ -o vpn_server *.cpp
+
+Run:
+
+./vpn_server
